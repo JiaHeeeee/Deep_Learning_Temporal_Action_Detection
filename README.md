@@ -1,5 +1,5 @@
 ## performance table
 
-|   Detector   | VOC07 (mAP@IoU=0.5) | VOC12 (mAP@IoU=0.5) | COCO (mAP) | Published In |
-|:------------:|:-------------------:|:-------------------:|:----------:|:------------:|
-|     R-CNN    |         58.5        |          -          |      -     |    CVPR'14   |
+|  Detector    | THUMOS (mAP@IoU=0.5) | ANET (mAP@IoU=0.5)  | Speed | Published In |
+|:------------:|:--------------------:|:-------------------:|-------|-------------:|
+| RNN with RL  |         17.1         |          -          |       |    CVPR'14   |
