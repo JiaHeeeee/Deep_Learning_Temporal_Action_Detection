@@ -1,6 +1,7 @@
 # Deep Learning Temporal Action Detection
 
-*Last updated: 2018/12/25*
+*Last updated: 2018/12/29*
+2018年的工作尚未总结完成，后续补充
 
 ## Performance Table
 
