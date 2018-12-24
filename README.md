@@ -1,8 +1,6 @@
 # Deep Learning Temporal Action Detection
 
-*Last updated: 2018/12/19*
-
-*2018年的工作尚未总结完成，后续补充*
+*Last updated: 2018/12/25*
 
 ## Performance Table
 
@@ -20,6 +18,7 @@
 |      CDC      |         23.3         |         22.9        |  500  |    ICCV'17   |
 |      SMS      |         17.8         |          -          |       |    CVPR'17   |
 |      SCC      |         19.3         |          -          |       |    CVPR'17   |
+|      TAG      |         28.3         |          -          |       |    CVPR'17   |
 |      SST      |         19.3         |          -          |       |    CVPR'17   |
 |     SSTAD     |         24.6         |          -          |       |    ACMMM'17  |
 |    TURN-TAP   |         25.6         |          -          |  880  |    ICCV'17   |
@@ -28,6 +27,7 @@
 |      ETP      |         34.2         |          -          |       |    CVPR'18   |
 |   Rethinking  |         42.0         |         38.2        |       |    CVPR'18   |
 |      TPN      |         27.6         |          -          |       |    AAAI'18   |
+|      SAP      |         27.7         |          -          |       |    AAAI'18   |
 |      BSN      |         36.9         |          -          |       |    ECCV'18   |
 
 
@@ -64,6 +64,7 @@
 
 - **[TURN-TAP]** Temporal Unit Regression Network for Temporal Action Proposals  | **[ICCV'17]** |[`[pdf]`](https://arxiv.org/pdf/1703.06189.pdf) 
 
+- **[TAG]** A Pursuit of Temporal Accuracy in General Activity Detection  | **[CVPR'17]** |[`[pdf]`](https://arxiv.org/pdf/1703.02716.pdf) 
 
 ## 2018
 - **[Rethinking]** Rethinking the Faster R-CNN Architecture for Temporal Action Localization
@@ -71,6 +72,8 @@
 
 - **[ETP]** Precise Temporal Action Localization by Evolving Temporal Proposals  | **[CVPR'18]** |[`[pdf]`](https://arxiv.org/pdf/1804.04803.pdf) 
 
-- **[BSN]** Boundary Sensitive Network for Temporal Action Proposal Generation  | **[ECCV'18]** |[`[pdf]`](https://arxiv.org/pdf/1806.02964.pdf) 
-
 - **[TPN]** Exploring Temporal Preservation Networks for Precise Temporal Action Localization  | **[AAAI'18]** |[`[pdf]`](https://arxiv.org/pdf/1708.03280.pdf) 
+
+- **[SAP]** A Self-Adaptive Proposal Model for Temporal Action Detection based on Reinforcement Learning  | **[AAAI'18]** |[`[pdf]`](https://arxiv.org/pdf/1706.07251.pdf) 
+
+- **[BSN]** Boundary Sensitive Network for Temporal Action Proposal Generation  | **[ECCV'18]** |[`[pdf]`](https://arxiv.org/pdf/1806.02964.pdf) 
