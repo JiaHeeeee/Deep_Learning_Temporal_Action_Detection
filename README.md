@@ -66,7 +66,7 @@
 - **[CBR]** Cascaded Boundary Regression for Temporal Action Detection  | **[BMVC'17]** |[`[pdf]`](https://arxiv.org/pdf/1705.01180.pdf) 
 
 - **[SMS]**  Temporal Action Localization by Structured Maximal Sums  | **[CVPR'17]** |[`[pdf]`](http://cn.arxiv.org/pdf/1704.04671v1.pdf)
-- 
+
 - **[UntrimmedNets]**  UntrimmedNets for Weakly Supervised Action Recognition and Detection  | **[CVPR'17]** |[`[pdf]`](http://cn.arxiv.org/pdf/1703.03329.pdf) 
 
 - **[TCN]** Temporal Context Network for Activity Localization in Videos  | **[ICCV'17]** |[`[pdf]`](https://arxiv.org/pdf/1708.02349.pdf) 
