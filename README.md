@@ -48,7 +48,7 @@
 
 
 ## 2015
-- **[LAF]** End-to-end learning of action detection from frame glimpses in videos  | **[CVPR'16]** |[`[pdf]`](http://cn.arxiv.org/pdf/1504.00983.pdf)
+- **[LAF]**  Temporal Localization of Fine-Grained Actions in Videos by Domain Transfer from Web Images | **[MM'15]** |[`[pdf]`](http://cn.arxiv.org/pdf/1504.00983.pdf)
 
 ## 2016
 - **[RNN & RL]** End-to-end learning of action detection from frame glimpses in videos  | **[CVPR'16]** |[`[pdf]`](https://arxiv.org/pdf/1511.06984.pdf) 
