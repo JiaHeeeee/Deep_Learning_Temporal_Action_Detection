@@ -1,12 +1,12 @@
 # Deep Learning Temporal Action Detection
 
-*Last updated: 2019/4/8*
+*Last updated: 2019/9/25*
 
 ## Performance Table
 
 |   Detector    | THUMOS (mAP@IoU=0.5) | ANET (mAP@IoU=0.5)  | Speed | Published In |
 |:-------------:|:--------------------:|:-------------------:|-------|-------------:|
-|      LAF      |         4.4          |          -          |       |    ACMMM'15  |
+|      LAF      |         4.4          |          -          |       |    ACMMM'15   |
 |    RNN & RL   |         17.1         |          -          |       |    CVPR'16   |
 |      PSDF     |         18.8         |          -          |       |    CVPR'16   |
 |      SSAD     |         24.6         |          -          |       |    CVPR'16   |
@@ -37,6 +37,9 @@
 |    W-TALC     |         22.8         |         37.0        |       |    ECCV'18   |
 |     CPMN      |         16.1         |         39.3        |       |    ACMMM'18  |
 |     STAR      |         23.0         |         31.1        |       |    AAAI'19   |
+|     BMN       |         38.8         |         39.4        |       |    ICCV'19   |
+|     MGG       |         39.9         |           -         |       |    ICCV'19   |
+
 
 
 ## Dataset
@@ -48,14 +51,14 @@
 
 
 ## 2015
-- **[LAF]** End-to-end learning of action detection from frame glimpses in videos  | **[CVPR'16]** |[`[pdf]`](http://cn.arxiv.org/pdf/1504.00983.pdf)
+- **[LAF]** Temporal Localization of Fine-Grained Actions in Videos by Domain Transfer from Web Images  | **[ACMMM'15]** |[`[pdf]`](http://cn.arxiv.org/pdf/1504.00983.pdf)
 
 ## 2016
 - **[RNN & RL]** End-to-end learning of action detection from frame glimpses in videos  | **[CVPR'16]** |[`[pdf]`](https://arxiv.org/pdf/1511.06984.pdf) 
 
 - **[PSDF]** Temporal Action Localization with Pyramid of Score Distribution Features   | **[CVPR'16]** |[`[pdf]`](http://openaccess.thecvf.com/content_cvpr_2016/papers/Yuan_Temporal_Action_Localization_CVPR_2016_paper.pdf) 
 
-- **[SCNN]** Temporal action localization in untrimmed videos via multi-stage cnns  | **[CVPR'16]** |[`[pdf]`](https://arxiv.org/pdf/1601.02129.pdf) 
+- **[SCNN]** Temporal action localization in untrimmed videos via multi-stage CNNs  | **[CVPR'16]** |[`[pdf]`](https://arxiv.org/pdf/1601.02129.pdf) 
 
 - **[SCNNv2]** Efficient Action Detection in Untrimmed Videos via Multi-Task Learning  | **[WACV'16]** |[`[pdf]`](https://arxiv.org/pdf/1612.07403.pdf) 
 
@@ -66,7 +69,7 @@
 - **[CBR]** Cascaded Boundary Regression for Temporal Action Detection  | **[BMVC'17]** |[`[pdf]`](https://arxiv.org/pdf/1705.01180.pdf) 
 
 - **[SMS]**  Temporal Action Localization by Structured Maximal Sums  | **[CVPR'17]** |[`[pdf]`](http://cn.arxiv.org/pdf/1704.04671v1.pdf)
-
+- 
 - **[UntrimmedNets]**  UntrimmedNets for Weakly Supervised Action Recognition and Detection  | **[CVPR'17]** |[`[pdf]`](http://cn.arxiv.org/pdf/1703.03329.pdf) 
 
 - **[TCN]** Temporal Context Network for Activity Localization in Videos  | **[ICCV'17]** |[`[pdf]`](https://arxiv.org/pdf/1708.02349.pdf) 
@@ -110,3 +113,5 @@
 
 ## 2019
 - **[STAR]** Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection   | **[AAAI'19]** |[`[pdf]`](http://cn.arxiv.org/pdf/1811.07460.pdf) 
+- **[BMN]** BMN: Boundary-Matching Network for Temporal Action Proposal Generation   | **[ICCV'19]** |[`[pdf]`](https://arxiv.org/pdf/1907.09702.pdf) 
+- **[MGG]** Multi-granularity Generator for Temporal Action Proposal   | **[CVPR'19]** |[`[pdf]`](https://arxiv.org/pdf/1811.11524.pdf) 
